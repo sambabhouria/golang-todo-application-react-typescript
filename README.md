@@ -7,11 +7,11 @@ On the back-end, we will use Go Fibre as the webserver and on the front-end we u
  Build Todo Application with Go & React
 
 # `What are we using?..`
-    1. [Go - Server](https://go.dev/)
-    2. [Fiber - Go web server](https://github.com/gofiber/fiber)
-    3. [Vite - Client](https://vitejs.dev/)
-    4. [Mantine - React component library](https://mantine.dev/)
-    5. [TypeScript - Static types](https://www.typescriptlang.org/)
+   1. [Go - Server](https://go.dev/)
+   2. [Fiber - Go web server](https://github.com/gofiber/fiber)
+   3. [Vite - Client](https://vitejs.dev/)
+   4. [Mantine - React component library](https://mantine.dev/)
+   5. [TypeScript - Static types](https://www.typescriptlang.org/)
 
 # `Gofiber.. `
     package fiber is an Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go.
